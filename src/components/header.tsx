@@ -22,7 +22,7 @@ export function Header() {
     }
 
     return (
-        <header className="w-full py-4 px-8 flex items-center justify-between bg-background/80 backdrop-blur sticky top-0 z-50">
+        <header className="w-full h-20 px-8 flex items-center justify-between bg-background/80 backdrop-blur sticky top-0 z-50">
             <NavigationMenu>
                 <NavigationMenuList>
                     <NavigationMenuItem>
